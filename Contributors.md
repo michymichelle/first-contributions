@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Enzo Moreno Baraldi](https://github.com/Enzo1603)
+- [Michelle Zheng](https://github.com/michymichelle)
 - [Shravan Garg](https://github.com/shravan-garg)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Chirag sharma] (https://github.com/chiragksharma)]
